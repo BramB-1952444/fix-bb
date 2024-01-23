@@ -5,7 +5,7 @@
   "description": "Fix the Blackboard pdf viewer just open it in a new window! I know it's genius",
   "author": "Bram Boeckx",
   "scripts": {
-    "dev": "plasmo dev",
+    "dev": "plasmo dev --target=chrome-mv3",
     "build": "plasmo build",
     "package": "plasmo package"
   },
